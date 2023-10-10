@@ -17,6 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Screenshot 1](screenshots/first.png)
-![Screenshot 2](screenshots/second.png)
-![Screenshot 3](screenshots/third.png)
+
+<img src='screenshots/first.png' width='350px'>
+<img src='screenshots/second.png' width='350px'>
+<img src='screenshots/third.png' width='350px'>
